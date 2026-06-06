@@ -24,7 +24,7 @@ SVG
 
 PNG (Transparent Background)
 
-JPG Preview
+JPG
 
 Fully Editable Vector Source Files
 
